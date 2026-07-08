@@ -25,3 +25,7 @@ Four progressive LP formulations (solved with Gurobi):
 ## Tech Stack
 
 Python, Gurobi (gurobipy), linear programming, pandas
+
+---
+
+_Part of my portfolio: [haiiibin.github.io](https://haiiibin.github.io)_
